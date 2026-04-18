@@ -1,0 +1,2 @@
+# ZhiHu_WebDataCrawler
+用于学术研究目的，使用Selenium爬取知乎特定检索词的帖子和用户评论，支持多种爬取方式和数据提取方法。
