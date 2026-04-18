@@ -1,0 +1,32 @@
+# Cookie文件（包含登录信息，不应提交到版本控制）
+zhihu_cookies.json
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 输出文件
+*.xlsx
+*.xls
+
+# 日志文件
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
